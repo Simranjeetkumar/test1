@@ -24,11 +24,7 @@ public class TransposeMatrix {
 		
 		
 		//Transpose matrix
-		System.out.println("Transpose matrix is" + Arrays.deepToString(matrix));
-		
-		
-		
-		
+		System.out.println("Transpose matrix is" + Arrays.deepToString(newmatrix));
 	
 		
 	}
